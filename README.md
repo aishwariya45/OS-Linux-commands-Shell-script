@@ -1,3 +1,37 @@
+## AIM:
+To practice Linux Commands and Shell Scripting
+
+## DESIGN STEPS:
+## Step 1:
+Navigate to any Linux environment installed on the system or installed inside a virtual environment like virtual box/vmware or online linux JSLinux (https://bellard.org/jslinux/vm.html?url=alpine-x86.cfg&mem=192) or docker.
+
+## Step 2:
+Execute the following commands
+
+## Step 3:
+Testing the commands for the desired output.
+
+## COMMANDS:
+Create the following files file1, file2 as follows:
+cat > file1
+```
+chanchal singhvi
+c.k. shukla
+s.n. dasgupta
+sumit chakrobarty
+^d
+```
+cat > file2
+```
+anil aggarwal
+barun sengupta
+c.k. shukla
+lalit chowdury
+s.n. dasgupta
+^d
+```
+## Display the content of the files
+
 cat < file1
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/40e6f5fa-a4f3-4c0f-a66a-e9981c4505a1)
